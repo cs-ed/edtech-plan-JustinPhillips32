@@ -33,6 +33,7 @@ Student laptop:
  1.1 GHz Celeron N3450
  32 GB Hard Drive
  4 GB Ram
+ IDLE (free Python editor)
  
  Wifi, Verizon hotspots, TV monitor (for airplay), mircrophone, 
  
@@ -41,7 +42,7 @@ Student laptop:
 
 ### Application
 
-  As this lesson plan is meant for a twice-per-week enrichment class, there won't be any homework of any kind. All lessons would take place in-person. This class would focus on the importance of password security, the importance of inclusivity in regards to internet access, the difference between hardware and software and what they do, and scratch assignments to introduce students to the thought process behind coding. I would want to introduce the students to some really basic coding problets using a real coding program at the end of the 6-week period. The purpose of this class would be to provide a basic understanding of computer science topics and give students an idea of what computer science and coding classes would be like in high school and beyond. 
+  As this lesson plan is meant for a twice-per-week enrichment class, there won't be any homework of any kind. All lessons would take place in-person. This class would focus on the importance of password security, the importance of inclusivity in regards to internet access, the difference between hardware and software and what they do, and scratch assignments to introduce students to the thought process behind coding. At the end of the six-week period, I would introduce students to basic Python coding using their default editor, IDLE. The purpose of this class would be to provide a basic understanding of computer science topics and give students an idea of what computer science and coding classes would be like in high school and beyond. 
 (Teaching Standard for my reference)
 (6-8.NI.6)- Encryption/Password Security. Lecture using Macbook and airplay to discuss modern internet security (passwords, encryption, 2FA, click all images that include a stoplight, etc) and its importance. Use historical examples of secret codes. Pair students up and challenge them to create their own encypted messages. The challenge would be to use any means necessary to send a message to their partner via e-mail that only the partner can decode. Coded message would be sent to all class members to see if they can "crack the code". Students would only need their Chromebook and access to school email. 
  
@@ -54,7 +55,7 @@ Student laptop:
 
 (6-8.IC.20) How computing technologies affect people's everyday lives and career options. Students would collaborate to build a website either in support of or against having wifi as a free public utility. I envision this project being the culmination of a two-week (4 meeting) lesson. Day 1 could be compiling a list of tasks that can be carried out efficiently with internet access and the time it can save you (for example, paying rent online vs. cashier's check in person or buying a plane ticket on a smartphone vs. driving to use library internet access). Day 2 could cover COVID and educational access on both sides of the digital divide. Day 3 would be a research day/gather information in order to build the website on day 4. 
 
-Use IDE to build a program that calculates grade averages.
+Use IDLE (Python) as an IDE to do some basic, introductory coding at the end of the six-week unit. I would have students build a simple number guessing game so that they could work with if-then statements that they would have familiarity with from the Scratch problets. This would be intended to give students a glimpse of what coding looks like and to provide a fun challenge. Students would be better informed about what went into real coding after this exercise so that they could decide whether or not computer coding and/or computer science would be something they would want to pursue in high school and beyond.
 
 
 
